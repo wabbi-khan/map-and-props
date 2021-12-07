@@ -27,19 +27,19 @@ const product = {
 		{
 			id: 1,
 			img: head1,
-			cate: "asdas 1",
+			cate: "asdas 4",
 			title: "headphones 1",
 		},
 		{
 			id: 2,
 			img: head2,
-			cate: "asdasd 2",
+			cate: "asdasd 5",
 			title: "headphones 2",
 		},
 		{
 			id: 3,
 			img: head3,
-			cate: "sdfsdf 3",
+			cate: "sdfsdf 6",
 			title: "headphones 3",
 		},
 	],
