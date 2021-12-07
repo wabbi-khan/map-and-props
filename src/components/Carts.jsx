@@ -1,6 +1,7 @@
 import React from "react";
 import product from "../data";
 const Carts = () => {
+	console.log(product);
 	return (
 		<>
 			{product.data.map((item) => (
@@ -31,9 +32,7 @@ const Carts = () => {
 								<div class="card-body">
 									<h5 class="card-title">{item.cate}</h5>
 									<p class="card-text">{item.title}.</p>
-									<a href="#" class="btn btn-primary">
-										Go somewhere
-									</a>
+									<button class="btn btn-primary">Go somewhere</button>
 								</div>
 							</div>
 						</div>

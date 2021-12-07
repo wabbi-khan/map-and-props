@@ -29,6 +29,20 @@ const product = {
 			img: head1,
 			cate: "asdas 4",
 			title: "headphones 1",
+			data3: [
+				{
+					id: 7,
+					img: head3,
+					cate: "qwe",
+					title: "qwe",
+				},
+				{
+					id: 7,
+					img: head3,
+					cate: "qwe",
+					title: "qwe",
+				},
+			],
 		},
 		{
 			id: 2,
