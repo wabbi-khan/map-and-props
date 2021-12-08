@@ -8,12 +8,7 @@ const Carts = () => {
 				<div className="container" key={item.id}>
 					<div className="row">
 						<div
-							className="col-12"
 							style={{
-								display: "flex",
-								flexDirection: "row",
-								justifyContent: "center",
-								alignItems: "center",
 								textAlign: "center",
 							}}
 						>
@@ -21,10 +16,7 @@ const Carts = () => {
 								class="card"
 								style={{
 									width: "18rem",
-									display: "flex",
-									flexDirection: "column",
-									justifyContent: "center",
-									alignItems: "center",
+
 									textAlign: "center",
 								}}
 							>
